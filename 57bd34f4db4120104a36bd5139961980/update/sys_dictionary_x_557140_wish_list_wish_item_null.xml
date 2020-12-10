@@ -42,7 +42,7 @@
         <reference_qual/>
         <reference_qual_condition/>
         <reference_type/>
-        <sizeclass/>
+        <sizeclass>2</sizeclass>
         <spell_check>false</spell_check>
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
@@ -54,9 +54,9 @@
         <sys_package display_value="Wish List" source="x_557140_wish_list">57bd34f4db4120104a36bd5139961980</sys_package>
         <sys_policy/>
         <sys_scope display_value="Wish List">57bd34f4db4120104a36bd5139961980</sys_scope>
-        <sys_update_name>sys_dictionary_x_557140_wish_list_wish_item_null</sys_update_name>
+        <sys_update_name>sys_dictionary_x_557140_wish_list_wish_item_NULL</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-12-10 08:51:33</sys_updated_on>
+        <sys_updated_on>2020-12-10 11:00:53</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
